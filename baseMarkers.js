@@ -1,1 +1,3 @@
-// if you wants signs, please see genPOI.py
+<<<<<<< HEAD
+=======
+>>>>>>> 2a743107a653c13885d0728724f28b2dddb99add
